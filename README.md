@@ -382,7 +382,7 @@ A reset option is also provided to return to the complete dataset view.
 
 # 📁 Repository Structure
 
-```text
+
 Project 1/
 │
 ├── dashboard/
@@ -502,7 +502,7 @@ Profitability should be evaluated alongside sales volume when assessing customer
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/ikalra858-cell/apl-logistics-profitability-analysis
 ```
 
 ### 2. Navigate to the project directory
@@ -531,7 +531,7 @@ The dashboard will open in your browser.
 
 The Streamlit dashboard will be deployed after the final repository setup.
 
-**Live Dashboard:** Coming soon
+https://apl-logistics-profitability-analysis-fehg9tfpgvoebvwnhmnz96.streamlit.app/
 
 ---
 
