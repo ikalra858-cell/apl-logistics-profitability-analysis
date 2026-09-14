@@ -382,7 +382,7 @@ A reset option is also provided to return to the complete dataset view.
 
 # 📁 Repository Structure
 
-
+```text
 Project 1/
 │
 ├── dashboard/
@@ -409,17 +409,17 @@ Project 1/
 │       └── market_profitability.csv
 │
 ├── research/
-│   ├── Customer_Product_Profitability_...
-│   └── Executive_Summary_Gov...
+│   ├── Research Paper.pdf
+│   └── Executive_Summary.pdf
 │
 ├── src/
+│   └── .gitkeep
 │
 ├── .gitignore
-├── README.md
-└── ...
+└── README.md
+```
 
 ---
-
 
 # 📂 Project Artifacts
 
