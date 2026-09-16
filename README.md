@@ -582,7 +582,7 @@ The Executive Summary is available in the `research/` directory.
 
 The project feedback video will be added as part of the internship submission requirements.
 
-**Project Feedback Video:** Coming soon
+https://youtu.be/4TVMFk8xSE0
 
 ---
 
